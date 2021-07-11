@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="shutter_list">
+        <item>1/8000</item>
+        <item>1/6000</item>
+        <item>1/4000</item>
+        <item>1/3000</item>
+        <item>1/2000</item>
+        <item>1/1500</item>
+        <item>1/1000</item>
+        <item>1/500</item>
+        <item>1/250</item>
+        <item>1/125</item>
+    </array>
+</resources>
